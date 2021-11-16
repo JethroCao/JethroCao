@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 - ❤  Program language: Python C++ (Go Rust)-toLearn 
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=JethroCao&theme=flat" alt="logo" height="120" align="center" style="margin: auto; margin-bottom: 20px;" />
+<img src="https://github-profile-trophy.vercel.app/?username=JethroCao&theme=flat" alt="logo" height="1000" align="center" style="margin: auto; margin-bottom: 20px;" />
 
