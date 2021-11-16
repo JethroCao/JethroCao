@@ -27,7 +27,5 @@ Here are some ideas to get you started:
 - 📖 [**leilei's blog**](https://blog.csdn.net/LEILEI18A)
 - 🔭 Computer vision(目标检测-语义分割-分类)
 - ❤  Program language: Python C++ (Go Rust)-toLearn 
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=JethroCao&theme=flat" alt="logo" height="1000" align="center" style="margin: auto; margin-bottom: 20px;" />
+<img src="https://github-profile-trophy.vercel.app/?username=JethroCao&theme=flat" alt="logo" height="200" align="center" style="margin: auto; margin-bottom: 20px;" />
 
