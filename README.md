@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **JethroCao/JethroCao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +12,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 用于显示编程语言比例
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JethroCao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- 黑色背景显示stars
+- ![leilei's github stats](https://github-readme-stats.vercel.app/api?username=JethroCao&show_icons=true&theme=radical)
+- ![leilei's github stats](https://github-readme-stats.vercel.app/api?username=JethroCao&show_icons=true)
 -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=JethroCao&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+
+## author is JethroCao 👋
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=JethroCao&theme=flat" alt="logo" height="120" align="center" style="margin: auto; margin-bottom: 20px;" />
