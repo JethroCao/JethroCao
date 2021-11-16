@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 
 ## author is JethroCao 👋
 
+<img src="https://github-profile-trophy.vercel.app/?username=JethroCao&theme=flat" alt="logo" height="120" align="center" style="margin: auto; margin-bottom: 20px;" />
