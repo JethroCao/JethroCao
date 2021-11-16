@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - ![leilei's github stats](https://github-readme-stats.vercel.app/api?username=JethroCao&show_icons=true)
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=JethroCao&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 ## author is leilei 👋
 - 🎓 CSU(master's degree)
