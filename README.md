@@ -24,11 +24,6 @@ hi, i'm caochenxu, after 90 years, living in Beijing, China; engaged in back-end
 
   <img align="right" alt="GIF" src="https://github.com/JethroCao/JethroCao/raw/main/assets/code.gif?raw=true" width="500" height="320" />
 
-
-
-- 💼 any freelance work? do reach, [email](mailto:1402992668@qq.com) :)
-- 💬 ask me about anything, i am happy to help;
-
 <br />
 
 **languages and tools:**
@@ -59,14 +54,11 @@ hi, i'm caochenxu, after 90 years, living in Beijing, China; engaged in back-end
 ![Java](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/java.svg)
 ![Python](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg)
 ![Docker](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/docker.svg)
-![Vue](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/vue.svg)
-![Laravel](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/laravel.svg)
-
+![Rust](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/rust.svg)
 
 🧠 Planned learning:
 
 &emsp;&emsp;
-![Rust](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/rust.svg)
 ![K8s](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/kubernetes.svg)
 ![Flutter](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/flutter.svg)
 
@@ -76,7 +68,6 @@ hi, i'm caochenxu, after 90 years, living in Beijing, China; engaged in back-end
 ![Mac](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/devices/mac.svg)
 ![Google Chrome](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/chrome.svg)
 ![Goland](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_goland.svg)
-![Phpstorm](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_phpstorm.svg)
 ![Webstorm](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_webstorm.svg)
 ![VsCode](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg)
 
