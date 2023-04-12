@@ -77,7 +77,7 @@ hi, i'm caochenxu, after 90 years, living in Beijing, China; engaged in back-end
 
 
 <!-- profile-3d-contrib -->
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/JethroCao/JethroCao/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
+<div align="center" ><img src="https://raw.githubusercontent.com/JethroCao/JethroCao/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
 
 # 🚀 Actions
 
