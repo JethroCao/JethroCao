@@ -79,74 +79,7 @@ hi, i'm caochenxu, after 90 years, living in Beijing, China; engaged in back-end
 <!-- profile-3d-contrib -->
 <div align="center" ><img src="https://cdn.jsdelivr.net/gh/JethroCao/JethroCao/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
 
-
 # 🚀 Actions
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-966%20hrs%2011%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.9%20thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data**
-
-> 📦 42.4 kB Used in GitHub's Storage
->
-> 🏆 105 Contributions in the Year 2023
->
-> 🚫 Not Opted to Hire
->
-> 📜 25 Public Repositories
->
-> 🔑 1 Private Repositories
->
-**I'm an Early 🐤**
-
-```text
-🌞 Morning                317 commits         ███████████████████░░░░░░   76.39 % 
-🌆 Daytime                59 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-🌃 Evening                33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-```
-📅 **I'm Most Productive on Friday**
-
-```text
-Monday                   66 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-Tuesday                  48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-Wednesday                55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Thursday                 61 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Friday                   94 commits          ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
-Saturday                 45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-Sunday                   46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-```
-
-
-📊 **This Week I Spent My Time On**
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Go                       1 hr 10 mins        █████████████████████████   100.00 % 
-
-🔥 Editors: 
-GoLand                   1 hr 10 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      1 hr 10 mins        █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Go**
-
-```text
-Go                       13 repos            ██████████████████████░░░   86.67 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-```
-
-
-
-
-Last Updated on 10/04/2023 00:45:53 UTC
 <!--END_SECTION:waka-->
