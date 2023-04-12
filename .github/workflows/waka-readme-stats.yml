@@ -1,10 +1,8 @@
-name: README STATS UPDATE
+name: Waka Readme
 
-# Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the master branch
 on:
   schedule:
-    - cron: '30 18 * * *'
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -16,11 +14,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_OS: False
-          SHOW_TIMEZONE: False
-          SHOW_EDITORS: False
-          SHOW_LOC_CHART: False
-          SHOW_LANGUAGE_PER_REPO: False
-          SHOW_DAYS_OF_WEEK: False
-          SHOW_LINES_OF_CODE: False
-          SHOW_PROFILE_VIEWS: False
+          SHOW_PROJECTS: "False"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_LOC_CHART: "False"
