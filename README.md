@@ -1,14 +1,4 @@
-<!-- 动态打字效果 -->
-<h1 align="center">
-  <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(09BD28&lines=A+post-90s+obsessed+with+coding!)&center=true&size=27">
-  </a>
-</h1>
-
-<!-- 个人资料徽标 -->
-<div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=JethroCao" alt="访客统计" />
-</div>
+<h1 align="center"></h1>
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center">
