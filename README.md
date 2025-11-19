@@ -37,29 +37,7 @@ hi, i'm caochenxu, after 90 years, living in Beijing, China; engaged in back-end
 <br />
 <br />
 
-💪 I am learning:
 
-&emsp;&emsp;
-![GO](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/go.svg)
-![Java](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/java.svg)
-![Python](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg)
-![Docker](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/docker.svg)
-![Rust](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/rust.svg)
-
-🧠 Planned learning:
-
-&emsp;&emsp;
-![K8s](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/kubernetes.svg)
-![Flutter](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/flutter.svg)
-
-🧰 Common tools:
-
-&emsp;&emsp;
-![Mac](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/devices/mac.svg)
-![Google Chrome](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/chrome.svg)
-![Goland](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_goland.svg)
-![Webstorm](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_webstorm.svg)
-![VsCode](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg)
 
 
 <!-- just img -->
