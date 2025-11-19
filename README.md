@@ -38,12 +38,6 @@ hi, i'm caochenxu, after 90 years, living in Beijing, China; engaged in back-end
 <br />
 
 
-
-
-<!-- just img -->
-<div align="center"><img src="https://raw.githubusercontent.com/JethroCao/JethroCao/main/assets/202110311924844.png" /></div>
-
-
 <!-- profile-3d-contrib -->
 <div align="center" ><img src="https://raw.githubusercontent.com/JethroCao/JethroCao/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
 
