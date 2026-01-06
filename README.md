@@ -46,15 +46,17 @@ hi, i'm caochenxu, after 90 years, living in Beijing, China; engaged in back-end
 # 🚀 Actions
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C651%20hrs%2046%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.96%20million%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.96%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 198.2 kB Used in GitHub's Storage 
+> 📦 198.3 kB Used in GitHub's Storage 
  > 
-> 🏆 4 Contributions in the Year 2026
+> 🏆 6 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,6 +64,50 @@ hi, i'm caochenxu, after 90 years, living in Beijing, China; engaged in back-end
  > 
 > 🔑 11 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2942 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+🌆 Daytime                8839 commits        ████████████░░░░░░░░░░░░░   48.86 % 
+🌃 Evening                6258 commits        █████████░░░░░░░░░░░░░░░░   34.59 % 
+🌙 Night                  52 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   3394 commits        █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+Tuesday                  2237 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Wednesday                2143 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Thursday                 2436 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Friday                   2830 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Saturday                 1882 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+Sunday                   3169 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Go                       42 hrs 6 mins       █████████████████████░░░░   85.06 % 
+YAML                     3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Other                    2 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+CSV                      33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Java                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+
+🔥 Editors: 
+GoLand                   28 hrs              ██████████████░░░░░░░░░░░   56.59 % 
+Chrome                   16 hrs 7 mins       ████████░░░░░░░░░░░░░░░░░   32.59 % 
+Cursor                   3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+SmartGit                 1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+TextMate                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+
+💻 Operating System: 
+Mac                      49 hrs 30 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Go** 
 
 ```text
@@ -75,5 +121,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 00:44:22 UTC
+ Last Updated on 06/01/2026 00:40:35 UTC
 <!--END_SECTION:waka-->
