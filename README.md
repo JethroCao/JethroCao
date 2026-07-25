@@ -54,7 +54,7 @@ hi, i'm caochenxu, after 90 years, living in Beijing, China; engaged in back-end
 
 > 📦 224.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,269 Contributions in the Year 2026
+> 🏆 1,271 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,20 +65,20 @@ hi, i'm caochenxu, after 90 years, living in Beijing, China; engaged in back-end
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4048 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+🌞 Morning                4049 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
 🌆 Daytime                11635 commits       ████████████░░░░░░░░░░░░░   49.33 % 
 🌃 Evening                7847 commits        ████████░░░░░░░░░░░░░░░░░   33.27 % 
-🌙 Night                  55 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+🌙 Night                  56 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   4176 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Monday                   4176 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
 Tuesday                  2919 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
 Wednesday                3592 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Thursday                 3440 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Thursday                 3440 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
 Friday                   3425 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Saturday                 2330 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Saturday                 2332 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
 Sunday                   3703 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
 ```
 
@@ -89,35 +89,35 @@ Sunday                   3703 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       21 hrs 2 mins       ███████░░░░░░░░░░░░░░░░░░   26.03 % 
-Other                    19 hrs 35 mins      ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
-Markdown                 16 hrs 41 mins      █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-SQL                      6 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-JavaScript               4 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Markdown                 24 hrs 36 mins      ███████░░░░░░░░░░░░░░░░░░   27.31 % 
+Go                       21 hrs 4 mins       ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+Other                    19 hrs 48 mins      ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+JavaScript               5 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+SQL                      4 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
 
 🔥 Editors: 
-Chrome                   24 hrs 51 mins      ████████░░░░░░░░░░░░░░░░░   30.74 % 
-ChatGPT                  20 hrs 3 mins       ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
-VS Code                  19 hrs 30 mins      ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
-Feishu                   10 hrs 34 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-TextMate                 1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Chrome                   33 hrs 49 mins      █████████░░░░░░░░░░░░░░░░   37.54 % 
+VS Code                  24 hrs 14 mins      ███████░░░░░░░░░░░░░░░░░░   26.91 % 
+ChatGPT                  18 hrs 18 mins      █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
+Feishu                   8 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Warp                     1 hr 36 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 
 💻 Operating System: 
-Mac                      80 hrs 51 mins      █████████████████████████   100.00 % 
+Mac                      90 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
 
 ```text
-Go                       23 repos            ██████████████░░░░░░░░░░░   54.76 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Shell                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Go                       23 repos            █████████████░░░░░░░░░░░░   53.49 % 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Shell                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 ```
 
 
 
 
- Last Updated on 24/07/2026 03:33:31 UTC
+ Last Updated on 25/07/2026 03:32:18 UTC
 <!--END_SECTION:waka-->
