@@ -46,9 +46,9 @@ hi, i'm caochenxu, after 90 years, living in Beijing, China; engaged in back-end
 # 🚀 Actions
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C630%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C632%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-700%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-706%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -58,7 +58,7 @@ hi, i'm caochenxu, after 90 years, living in Beijing, China; engaged in back-end
 
 > 📦 225.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,410 Contributions in the Year 2026
+> 🏆 1,411 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -71,7 +71,7 @@ hi, i'm caochenxu, after 90 years, living in Beijing, China; engaged in back-end
 ```text
 🌞 Morning                4298 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
 🌆 Daytime                12953 commits       ████████████░░░░░░░░░░░░░   49.33 % 
-🌃 Evening                8945 commits        █████████░░░░░░░░░░░░░░░░   34.07 % 
+🌃 Evening                8946 commits        █████████░░░░░░░░░░░░░░░░   34.07 % 
 🌙 Night                  61 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -81,9 +81,9 @@ Monday                   4745 commits        █████░░░░░░�
 Tuesday                  3487 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
 Wednesday                3918 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
 Thursday                 3857 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Friday                   3722 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Friday                   3723 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
 Saturday                 2575 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-Sunday                   3953 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Sunday                   3953 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
 ```
 
 
@@ -93,44 +93,44 @@ Sunday                   3953 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    26 hrs 46 mins      ████████████████░░░░░░░░░   62.98 % 
-Text                     11 hrs 27 mins      ███████░░░░░░░░░░░░░░░░░░   26.95 % 
-Go                       3 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-YAML                     45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Other                    28 hrs 39 mins      ██████████████████░░░░░░░   71.13 % 
+Text                     9 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
+Go                       1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+YAML                     45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-Feishu                   14 hrs 32 mins      █████████░░░░░░░░░░░░░░░░   34.21 % 
-Chrome                   8 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-TextMate                 7 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-ChatGPT                  6 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-Codex Vscode             5 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Feishu                   16 hrs 44 mins      ██████████░░░░░░░░░░░░░░░   41.55 % 
+ChatGPT                  7 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+TextMate                 6 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Codex Vscode             5 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Chrome                   4 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
 
 💻 Operating System: 
-Mac                      42 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      40 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 19 mins (57.23%)
+⏱ AI Coding Time: 22 hrs 15 mins (55.26%)
 
-✍️ 187 lines written by AI, 73 lines written by hand (71.92% AI-written)
+✍️ 257 lines written by AI, 73 lines written by hand (77.88% AI-written)
 
-🔤 13,236,569 Input Tokens, 4,230,897 Output Tokens
+🔤 12,340,921 Input Tokens, 3,274,994 Output Tokens
 
-💵 $254.58 Estimated AI Cost This Week
+💵 $215.10 Estimated AI Cost This Week
 
-🧠 41 AI Sessions, 399 AI Prompts
+🧠 40 AI Sessions, 505 AI Prompts
 
-GPT                      651 lines           █████████████████████████   100.00 % 
+GPT                      728 lines           █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 71.92% of written lines came from AI
-📚 Verbose Prompter — average 6,500 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 16.96% of changed lines were hand-edited
+🤖 AI-Driven — 77.88% of written lines came from AI
+📚 Verbose Prompter — average 5,747 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 15.45% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -146,5 +146,5 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2026 08:57:00 UTC
+ Last Updated on 28/08/2026 11:09:32 UTC
 <!--END_SECTION:waka-->
