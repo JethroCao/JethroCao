@@ -46,19 +46,19 @@ hi, i'm caochenxu, after 90 years, living in Beijing, China; engaged in back-end
 # 🚀 Actions
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C638%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C641%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-711%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-714%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.17%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.16%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 225.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,415 Contributions in the Year 2026
+> 🏆 1,416 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,16 +70,16 @@ hi, i'm caochenxu, after 90 years, living in Beijing, China; engaged in back-end
 
 ```text
 🌞 Morning                4298 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-🌆 Daytime                12957 commits       ████████████░░░░░░░░░░░░░   49.34 % 
-🌃 Evening                8946 commits        █████████░░░░░░░░░░░░░░░░   34.06 % 
+🌆 Daytime                12950 commits       ████████████░░░░░░░░░░░░░   49.34 % 
+🌃 Evening                8940 commits        █████████░░░░░░░░░░░░░░░░   34.06 % 
 🌙 Night                  61 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   4746 commits        █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-Tuesday                  3488 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Wednesday                3918 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Monday                   4739 commits        █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+Tuesday                  3486 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Wednesday                3914 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
 Thursday                 3857 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
 Friday                   3723 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
 Saturday                 2576 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
@@ -93,42 +93,42 @@ Sunday                   3954 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    25 hrs 21 mins      █████████████████░░░░░░░░   69.20 % 
-Text                     6 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-Markdown                 1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-JSON                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-Go                       44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Other                    23 hrs 16 mins      ██████████████░░░░░░░░░░░   57.44 % 
+Text                     7 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+JavaScript               2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+Markdown                 1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Vue                      1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 
 🔥 Editors: 
-Feishu                   16 hrs 30 mins      ███████████░░░░░░░░░░░░░░   45.05 % 
-TextMate                 5 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-ChatGPT                  5 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Codex Vscode             4 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Chrome                   4 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Feishu                   15 hrs 31 mins      ██████████░░░░░░░░░░░░░░░   38.31 % 
+Chrome                   8 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
+TextMate                 5 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+ChatGPT                  5 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Codex Vscode             4 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
 
 💻 Operating System: 
-Mac                      36 hrs 39 mins      █████████████████████████   100.00 % 
+Mac                      40 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 5 mins (46.64%)
+⏱ AI Coding Time: 18 hrs 16 mins (45.08%)
 
-✍️ 662 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 887 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 10,905,399 Input Tokens, 2,131,432 Output Tokens
+🔤 11,455,831 Input Tokens, 2,204,120 Output Tokens
 
-💵 $161.66 Estimated AI Cost This Week
+💵 $180.52 Estimated AI Cost This Week
 
-🧠 46 AI Sessions, 440 AI Prompts
+🧠 53 AI Sessions, 513 AI Prompts
 
-GPT                      1,228 lines         █████████████████████████   100.00 % 
+GPT                      1,004 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 6,129 characters per prompt
+📚 Verbose Prompter — average 5,716 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -136,15 +136,15 @@ Codex-Vscode             0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Go** 
 
 ```text
-Go                       24 repos            ████████████░░░░░░░░░░░░░   48.00 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Go                       23 repos            ████████████░░░░░░░░░░░░░   46.94 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 ```
 
 
 
 
- Last Updated on 01/09/2026 04:51:06 UTC
+ Last Updated on 02/09/2026 04:13:20 UTC
 <!--END_SECTION:waka-->
