@@ -58,7 +58,7 @@ hi, i'm caochenxu, after 90 years, living in Beijing, China; engaged in back-end
 
 > 📦 226.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,441 Contributions in the Year 2026
+> 🏆 1,442 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,14 +70,14 @@ hi, i'm caochenxu, after 90 years, living in Beijing, China; engaged in back-end
 
 ```text
 🌞 Morning                4304 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-🌆 Daytime                12968 commits       ████████████░░░░░░░░░░░░░   49.36 % 
+🌆 Daytime                12969 commits       ████████████░░░░░░░░░░░░░   49.36 % 
 🌃 Evening                8940 commits        █████████░░░░░░░░░░░░░░░░   34.03 % 
 🌙 Night                  61 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   4741 commits        █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+Monday                   4742 commits        █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
 Tuesday                  3489 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
 Wednesday                3917 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
 Thursday                 3861 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
@@ -93,44 +93,44 @@ Sunday                   3958 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    17 hrs 1 min        ████████░░░░░░░░░░░░░░░░░   33.62 % 
-Go                       16 hrs 13 mins      ████████░░░░░░░░░░░░░░░░░   32.06 % 
-Text                     6 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-Markdown                 3 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-JavaScript               2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Other                    16 hrs 2 mins       █████████░░░░░░░░░░░░░░░░   36.01 % 
+Go                       14 hrs 34 mins      ████████░░░░░░░░░░░░░░░░░   32.73 % 
+Text                     5 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Markdown                 3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+JavaScript               1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 🔥 Editors: 
-Chrome                   18 hrs 18 mins      █████████░░░░░░░░░░░░░░░░   36.17 % 
-Feishu                   13 hrs              ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
-Codex Vscode             5 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-ChatGPT                  5 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-TextMate                 3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+Chrome                   15 hrs 43 mins      █████████░░░░░░░░░░░░░░░░   35.32 % 
+Feishu                   11 hrs 50 mins      ███████░░░░░░░░░░░░░░░░░░   26.60 % 
+Codex Vscode             4 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+ChatGPT                  4 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+TextMate                 3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
 
 💻 Operating System: 
-Mac                      50 hrs 38 mins      █████████████████████████   100.00 % 
+Mac                      44 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 11 mins (47.79%)
+⏱ AI Coding Time: 20 hrs 13 mins (45.42%)
 
-✍️ 8,404 lines written by AI, 619 lines written by hand (93.14% AI-written)
+✍️ 6,773 lines written by AI, 618 lines written by hand (91.64% AI-written)
 
-🔤 22,158,436 Input Tokens, 1,564,961 Output Tokens
+🔤 19,076,576 Input Tokens, 1,287,564 Output Tokens
 
-💵 $677.45 Estimated AI Cost This Week
+💵 $580.52 Estimated AI Cost This Week
 
-🧠 207 AI Sessions, 809 AI Prompts
+🧠 176 AI Sessions, 631 AI Prompts
 
-GPT                      8,629 lines         █████████████████████████   100.00 % 
+GPT                      6,994 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.14% of written lines came from AI
-📚 Verbose Prompter — average 10,644 characters per prompt
+🤖 AI-Driven — 91.64% of written lines came from AI
+📚 Verbose Prompter — average 10,298 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 14.58% of changed lines were hand-edited
+🚀 High AI Trust — 17.39% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
@@ -146,5 +146,5 @@ Rust                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2026 05:05:22 UTC
+ Last Updated on 28/09/2026 05:06:47 UTC
 <!--END_SECTION:waka-->
